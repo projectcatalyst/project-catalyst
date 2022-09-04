@@ -24,7 +24,7 @@ In each funding round you will often find a challenge called challenge setting. 
 
 ## **Phases and Stages**
 
-Challenges go through three phases - innovation, governance and execution. Within each phase there are a number of stages for the proposers, community advisors and voters. The stages start from insight sharing about the challenges and finishes with the execution of proposals that got selected in the governance process. Below you'll find each of the stages within the three different phases.
+Challenges go through three phases - innovation, governance and execution. Within each phase there are a number of stages for the proposers, proposal assessors and voters. The stages start from insight sharing about the challenges and finishes with the execution of proposals that got selected in the governance process. Below you'll find each of the stages within the three different phases.
 
 
 
@@ -56,13 +56,13 @@ Proposals are able to make any final changes and improvements to their proposals
 
 **Assess proposals**
 
-Community advisors are given time to review the proposals submitted to the funding round. The community advisors review proposals against the challenge objectives and the impact, feasibility and auditability of the proposal.
+Proposal assessors are given time to review the proposals submitted to the funding round. The proposal assessors review proposals against the challenge objectives and the impact, feasibility and auditability of the proposal.
 
 
 
 **Review the reviewers**
 
-Veteran community advisors review the other community advisors proposal assessments to check that they have followed the rules and guidelines. Reviews that didn't conform to those rules and guidelines will get removed. Community advisors must have at least one funding round worth of experience as a community advisor to perform the role of a veteran community advisor.
+Veteran proposal assessors review the other proposal assessors proposal assessments to check that they have followed the rules and guidelines. Reviews that didn't conform to those rules and guidelines will get removed. Proposal assessors must have at least one funding round worth of experience as a proposal assessor to perform the role of a veteran proposal assessor.
 
 
 

@@ -11,7 +11,7 @@ The following helps you with checking any rewards earned from Project Catalyst.
 
 ![](../.gitbook/assets/rewards1.png)
 
-2\. Open [**Cardanoscan**](https://cardanoscan.io) **** and paste your stake key and click **Search**
+2\. Open [**Cardanoscan**](https://cardanoscan.io/) **** and paste your stake key and click **Search**
 
 ![](../.gitbook/assets/rewards2.png)
 

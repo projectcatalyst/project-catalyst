@@ -152,7 +152,7 @@ There are currently the following types of rewards: [voter rewards](https://docs
 
 We currently use the following methodology for insuring price stability:
 
-1. We measure ada/USD price showing on [https://coinmarketcap.com/](https://coinmarketcap.com)
+1. We measure ada/USD price showing on [https://coinmarketcap.com/](https://coinmarketcap.com/)
 2. At the date of rewards allocation. We will adjust the amount of ada given to the winning proposal to be equivalent of the same amount of USD calculated previously.  Example:  A proposal asks for 100 ada on Oct 21, and let’s assume ada price on that time is 0.1 USD. On the day of rewarding, the price shifted so ada is now worth 0.15 USD. That means the proposer will be rewarded with 66.666 ada. The same amount in USD they asked for originally.
 
 
@@ -315,4 +315,4 @@ Absolutely, building Cardano requires the input of both technical and non-techni
 
 ## **Resources**
 
-* [Project Catalyst FAQ](https://docs.google.com/document/d/1qYtV15WXeM\_AQYvISzr0a0Qj2IzW3hDvhMBvZZ4w2jE/edit#)&#x20;
+* [Project Catalyst FAQ](https://docs.google.com/document/d/1qYtV15WXeM\_AQYvISzr0a0Qj2IzW3hDvhMBvZZ4w2jE/edit)&#x20;

@@ -25,8 +25,8 @@ Challenge stages are a collection of milestones for a challenge where different 
 
 ****
 
-**Community Advisor**\
-A community advisor is someone who is familiar with the innovation platform, the challenge, and best practices for developing a proposal. They act to assist innovators in ensuring that their ideas are auditable, achievable, and impactful.
+**Proposal Assessor**\
+A proposal assessor is someone who is familiar with the innovation platform, the challenge, and best practices for developing a proposal. They act to assist innovators in ensuring that their ideas are auditable, achievable, and impactful.
 
 ****
 
@@ -65,8 +65,8 @@ Each fund has a minimum voting threshold in Ada that they must have to participa
 
 ****
 
-**Veteran Community Advisor**\
-Veteran community advisors are community advisors that help review the proposal assessments made by community advisors for a given funding round. Veteran community advisors need to have already completed a funding round as a community advisor before they can become a veteran community advisor.
+**Veteran Proposal Assessor**\
+Veteran proposal assessor are experienced proposal assessors that help review the assessments made by proposal assessors for a given funding round. Veteran proposal assessor need to have already completed a funding round as a community advisor before they can become a veteran community advisor.
 
 ****
 

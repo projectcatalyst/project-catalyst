@@ -1,9 +1,9 @@
 # Useful Links
 
-* [Cardano Ideascale](https://cardano.ideascale.com) - Submit and review proposals that look to receive funding from the treasury
+* [Cardano Ideascale](https://cardano.ideascale.com/) - Submit and review proposals that look to receive funding from the treasury
 * [Town hall meeting registration](https://zoom.us/meeting/register/tJEtduyupzMvHNUczCQwfFJGcXzmw2lDwkIf) - Join the weekly town halls to get involved with the community
 
-The links below focus on Project Catalyst. To find out about Cardano more specifically check the [Cardano website](https://cardano.org) for other useful information.
+The links below focus on Project Catalyst. To find out about Cardano more specifically check the [Cardano website](https://cardano.org/) for other useful information.
 
 
 
@@ -30,7 +30,7 @@ Official communication channels by IOHK
 * [Project Catalyst announcements](https://t.me/cardanocatalyst) &#x20;
 * [Project Catalyst official chat](https://t.me/ProjectCatalystChat)
 * [Cardano official chat](https://t.me/Cardano)
-* [Community advisors official chat](https://t.me/CatalystCommunityAdvisors)
+* [Proposal assessors official chat](https://t.me/CatalystCommunityAdvisors)
 * [Proposers official chat](https://t.me/catalystproposers)
 * [Help find bugs and test](https://t.me/catalystdryruns) - Help IOHK find and fix bugs when they're close to launching new changes
 
@@ -69,20 +69,20 @@ Projects and tools which are not maintained by IOHK, please be careful of scams
 
 **News**
 
-* [adapulse.io](https://adapulse.io) - News articles about Project Catalyst proposals or new Cardano projects
+* [adapulse.io](https://adapulse.io/) - News articles about Project Catalyst proposals or new Cardano projects
 
 ****
 
 **Websites**
 
-* [adagov.org](https://www.adagov.org)
-* [cardanocataly.st](https://cardanocataly.st)
-* ****[catalystswarm.com](https://catalystswarm.com)
-* [gimbalabs.com](https://gimbalabs.com)
+* [adagov.org](https://www.adagov.org/)
+* [cardanocataly.st](https://cardanocataly.st/)
+* ****[catalystswarm.com](https://catalystswarm.com/)
+* [gimbalabs.com](https://gimbalabs.com/)
 * [projectcatalyst.org](https://projectcatalyst.org)
 
 ****
 
 **Communication**
 
-* [Project Catalyst community Discord](https://discord.gg/8HeBaUdm) - Community run Discord group
+* [Project Catalyst community Discord](https://discord.gg/yfyfsvdrbj) - Community run Discord group

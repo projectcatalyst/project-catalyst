@@ -4,7 +4,7 @@
 
 [Project Catalyst](https://iohk.io/en/blog/posts/2021/02/12/our-million-dollar-baby-project-catalyst/) is a series of experiments which seeks to generate the highest levels of community innovation. Catalyst is bringing on-chain governance to the Cardano blockchain by allowing the community to self-determine priorities for growth. It also lets participants deploy funding to proposals which tackle challenges and capitalize on opportunities that arise in the life cycle of Cardano.
 
-To do this, Project Catalyst is divided into a series of funds which are deployed every six weeks. These funds will illicit ideas in the form of proposals from participants. Each proposal will focus around a challenge issued by the Project Catalyst team or the Project Catalyst community. The proposals will then go through a community refinement process where they are vetted for feasibility, auditability, and impact by a group of incentivized community advisors. Once the proposals have been finalized they will be voted on by the community and funds will be distributed in the form of ada to winning projects. Each stage of this process is described in greater detail throughout this document.
+To do this, Project Catalyst is divided into a series of funds which are deployed every six weeks. These funds will illicit ideas in the form of proposals from participants. Each proposal will focus around a challenge issued by the Project Catalyst team or the Project Catalyst community. The proposals will then go through a community refinement process where they are vetted for feasibility, auditability, and impact by a group of incentivized proposal assessors. Once the proposals have been finalized they will be voted on by the community and funds will be distributed in the form of ada to winning projects. Each stage of this process is described in greater detail throughout this document.
 
 
 
@@ -15,7 +15,7 @@ Project Catalyst enables funding of projects from all over the world. You will g
 * Looking to bring new ideas to life and help with the future of decentralized platforms
 * Want to learn about all of the new ideas and projects being funded or about the progress of decentralized governance
 * Interested in helping create one of the largest decentralized governance systems
-* Looking to be rewarded for your participation in growing the Cardano ecosystem through creating proposals, voting or helping as a community advisor
+* Looking to be rewarded for your participation in growing the Cardano ecosystem through creating proposals, voting or helping as a proposal assessor
 * Wanting to be part of a disrupting innovation force that is constantly evolving
 
 

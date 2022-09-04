@@ -20,7 +20,7 @@ Every Ada holder that has at least 500 Ada in a wallet can use it to vote. Futur
 
 **How can I vote?**
 
-For voting you can use a number of different wallets such as [Yoroi](https://yoroi-wallet.com/#/), [Daedalus](https://daedaluswallet.io) or [Adalite](https://adalite.io) wallets. Within a given wallet you will need to register to vote before voting. You can check the most recent [official post](https://www.reddit.com/r/cardano/comments/ofo1bz/fund\_5\_register\_to\_vote\_all\_you\_need\_to\_know/) on all you need to know about voting.
+For voting you can use a number of different wallets such as [Yoroi](https://yoroi-wallet.com/#/), [Daedalus](https://daedaluswallet.io/) or [Adalite](https://adalite.io/) wallets. Within a given wallet you will need to register to vote before voting. You can check the most recent [official post](https://www.reddit.com/r/cardano/comments/ofo1bz/fund\_5\_register\_to\_vote\_all\_you\_need\_to\_know/) on all you need to know about voting.
 
 ****
 

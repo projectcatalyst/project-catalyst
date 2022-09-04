@@ -2,7 +2,7 @@
 
 **What is the 'proposing process' in Project Catalyst?**
 
-The Cardano Community has a treasury that is allocated to Project Catalyst to help fund projects that benefit the ecosystem and overall community of Cardano. Proposers with ideas can put forward proposals on [Cardano Ideascale](https://cardano.ideascale.com) to get funding for their projects if the community votes for their proposal.
+The Cardano Community has a treasury that is allocated to Project Catalyst to help fund projects that benefit the ecosystem and overall community of Cardano. Proposers with ideas can put forward proposals on [Cardano Ideascale](https://cardano.ideascale.com/) to get funding for their projects if the community votes for their proposal.
 
 
 
@@ -20,7 +20,7 @@ Anyone can submit a proposal to get funding. The proposing process is open and t
 
 **How do I propose in Project Catalyst?**
 
-After registration on [Cardano Ideascale](https://cardano.ideascale.com), you can submit proposals when a new funding round is opened which is currently every 12 weeks.
+After registration on [Cardano Ideascale](https://cardano.ideascale.com/), you can submit proposals when a new funding round is opened which is currently every 12 weeks.
 
 
 
@@ -28,10 +28,10 @@ After registration on [Cardano Ideascale](https://cardano.ideascale.com), you ca
 
 Effective proposals will need to address a specific challenge given for that funding round. Proposers need to cover a checklist of requirements to have their proposal be accepted for the voting governance process.
 
-You can use the [official proposal guide](proposer-guide.md) to learn about how to write an effective proposal. Proposals are reviewed by Community Advisors according to these standards.
+You can use the official proposal guide to learn about how to write an effective proposal. Proposals are reviewed by Community Advisors according to these standards.
 
 
 
 **How can I increase my probability to get funded?**
 
-To increase your changes of being successfully funded proposers will want to interact with the community where possible to receive feedback that will help them improve their proposal. You can engage in dialogues about your proposal on the community [Cardano Project Catalyst Discord](https://discord.com/invite/8HeBaUdm) or get involved in community [Swarm sessions](https://catalystswarm.com).
+To increase your changes of being successfully funded proposers will want to interact with the community where possible to receive feedback that will help them improve their proposal. You can engage in dialogues about your proposal on the community [Cardano Project Catalyst Discord](https://discord.gg/yfyfsvdrbj) or get involved in community [Swarm sessions](https://catalystswarm.com/).

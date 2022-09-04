@@ -2,7 +2,7 @@
 
 **Community**
 
-Ask the community a question in the community [Project Catalyst Discord](https://discord.gg/SZAcUJRfQV) server.
+Ask the community a question in the community [Project Catalyst Discord](https://discord.gg/yfyfsvdrbj) server.
 
 ****
 
