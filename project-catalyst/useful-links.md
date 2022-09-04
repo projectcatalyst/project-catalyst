@@ -79,6 +79,7 @@ Projects and tools which are not maintained by IOHK, please be careful of scams
 * [cardanocataly.st](https://cardanocataly.st/)
 * ****[catalystswarm.com](https://catalystswarm.com/)
 * [gimbalabs.com](https://gimbalabs.com/)
+* [lidonation.com](https://www.lidonation.com/en)
 * [projectcatalyst.org](https://projectcatalyst.org)
 
 ****
