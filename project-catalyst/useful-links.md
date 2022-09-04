@@ -43,7 +43,7 @@ Official communication channels by IOHK
 ## **Project Catalyst**
 
 * [Voting result reports](https://cardano.ideascale.com/a/pages/results)
-* [Funded proposals cohort reporting](https://docs.google.com/spreadsheets/d/1e-HBO-UTFyT9aoTWhHQwqaRkjfJN7MXHwxnN9KsNuyc)
+* [Funded proposals cohort reporting](https://docs.google.com/spreadsheets/d/1bfnWFa94Y7Zj0G7dtpo9W1nAYGovJbswipxiHT4UE3g/edit#gid=938310766)
 * [All funded proposals Miro board](https://miro.com/app/board/o9J\_lDdCgNk=/)
 * [IOHK Project Catalyst help articles](https://iohk.zendesk.com/hc/en-us/sections/4404313438617-Project-Catalyst)
 
