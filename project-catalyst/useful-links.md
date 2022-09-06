@@ -64,7 +64,7 @@ Official communication channels by IOHK
 ## **Community Projects & Tools**
 
 {% hint style="info" %}
-Projects and tools which are not maintained by IOHK, please be careful of scams
+Projects and tools maintained by the community. Be careful of scams!
 {% endhint %}
 
 **News**
@@ -77,6 +77,7 @@ Projects and tools which are not maintained by IOHK, please be careful of scams
 
 * [adagov.org](https://www.adagov.org/)
 * [cardanocataly.st](https://cardanocataly.st/)
+* [Catalyst School](https://linktr.ee/CatalystSchool)
 * ****[catalystswarm.com](https://catalystswarm.com/)
 * [gimbalabs.com](https://gimbalabs.com/)
 * [lidonation.com](https://www.lidonation.com/en)
