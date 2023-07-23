@@ -45,4 +45,4 @@
 
 ## Links
 
-* [All Documentation](https://app.gitbook.com/o/Pr76HeHUxsbctwx0OULs/s/vfjkdYxpr0HB9rUDqH4r/)
+* [All Documentation](http://127.0.0.1:5000/o/Pr76HeHUxsbctwx0OULs/s/vfjkdYxpr0HB9rUDqH4r/)

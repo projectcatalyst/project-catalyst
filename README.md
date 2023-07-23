@@ -1,5 +1,9 @@
 # Overview
 
+{% hint style="warning" %}
+This documentation is now archived and out of date. Please now refer to the official Project Catalyst documentation: [docs.projectcatalyst.io](https://docs.projectcatalyst.io/)
+{% endhint %}
+
 Project Catalyst is a series of experiments which seeks to generate the highest levels of community innovation. Catalyst is bringing on-chain governance to the Cardano blockchain by allowing the community to self-determine priorities for growth.
 
 
